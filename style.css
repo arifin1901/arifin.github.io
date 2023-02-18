@@ -1,0 +1,14 @@
+.jumbotron {
+padding-top: 6rem;
+    background-color: rgb(16, 243, 232);
+}
+#Galery {
+    background-color: #00cba9;
+}
+#Contact {
+    background-color: #e7008a;
+}
+
+section {
+    padding-top: 5rem;
+}
